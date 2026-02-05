@@ -16,4 +16,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | `Yaaqoob` | `yaaqoob` |
 
 ## Notes
-delete button is located when editing a city inside the citylist. Select a created city then the delete button will be present
+delete button is located when editing a city inside the citylist. Select a created city then the delete button will be present in the model
